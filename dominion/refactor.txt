@@ -1,0 +1,1 @@
+For each function, I found out what parameters were necessary to include in order for the function to work properly. Some variables could be local to the scope of the function, while others would be modified or were modified outside of the scope of the function and thus needed to be parameters.
